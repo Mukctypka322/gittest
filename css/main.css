@@ -1,3 +1,9 @@
 body {
     background-color: red;
 }
+p {
+    color: blue;
+}
+h2 {
+    box-sizing: 50px;
+}
