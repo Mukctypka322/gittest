@@ -6,4 +6,8 @@ p {
 }
 h2 {
     box-sizing: 50px;
+    display: flex;
+    font-display: flex;
+    background-color: #fff;
+    font: 1em sans-serif;
 }
